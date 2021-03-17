@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Binoy Peries 👋
 
 - 🌱 I am a second year Computer Science & Engineering undergraduate at University of Moratuwa,Sri Lanka.
 
