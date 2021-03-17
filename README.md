@@ -1,4 +1,6 @@
 ### Hi there 👋
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1
 
 <!--
 **binoyPeries/binoyPeries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
