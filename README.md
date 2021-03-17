@@ -1,7 +1,8 @@
 ### Hi there 👋
 
- 🌱 I am a second year Computer Science & Engineering undergraduate at University of Moratuwa,Sri Lanka.
-- 
+- 🌱 I am a second year Computer Science & Engineering undergraduate at University of Moratuwa,Sri Lanka.
+
+
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binoyPeries&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
