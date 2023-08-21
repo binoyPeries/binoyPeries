@@ -1,7 +1,8 @@
 ## Hi there, I'm Binoy Peries 👋
 
- 🌱 I am a final year Computer Science & Engineering undergraduate at University of Moratuwa,Sri Lanka.
 
+👋 Computer Science & Engineering graduate 🎓 from the University of Moratuwa, Sri Lanka 🇱🇰.
+👨‍💻 Working at WSO2 as a Software Engineer, shaping digital solutions.
  
  
 <!--   
