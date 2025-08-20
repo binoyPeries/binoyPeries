@@ -2,7 +2,7 @@
 
 
 👋 Computer Science & Engineering graduate 🎓 from the University of Moratuwa, Sri Lanka 🇱🇰.
-👨‍💻 Working at WSO2 as a Software Engineer, shaping digital solutions.
+👨‍💻 Working at WSO2 as a Senior Software Engineer, shaping digital solutions.
  
  
 <!--   
